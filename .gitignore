@@ -2,3 +2,5 @@
 *.class
 bin/
 out/
+/pr3/bikeproject/.settings/
+/pr3/bikeproject/.project
